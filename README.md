@@ -5,9 +5,9 @@
 ## Projects
 List of all projects sorted by language/platform
 
-### Power Apps
+### Power Apps <img src="files/PowerApps.svg" height="23">
 
-### Power Automate
+### Power Automate <img src="files/PowerAutomate.svg" height="23">
 - [Microsoft Outlook - Automatic Travel Time](/../../../AutomaticTravelTime)<br/>
 - [Microsoft Teams - Teams Meeting Buffer Time](/../../../MicrosoftTeamsMeetingBufferTime)<br/>
 - [Microsoft Outlook - Automatic Out of Office](/../../../AutomaticOutofOffice)<br/>
