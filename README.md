@@ -7,6 +7,9 @@ List of all projects sorted by language/platform
 ### Power Apps
 
 ### Power Automate
+[Microsoft Outlook - Automatic Travel Time](/../../../AutomaticTravelTime)<br/>
+[Microsoft Teams - Teams Meeting Buffer Time](/../../../MicrosoftTeamsMeetingBufferTime)<br/>
+[Microsoft Outlook - Automatic Out of Office](/../../../AutomaticOutofOffice)<br/>
 
 ### PowerShell
 
