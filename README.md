@@ -1,6 +1,7 @@
 <img src="/files/MrAutomate-crop.png" alt="Mr. Automate" width="200" height="200">
 
 # Mr. Automate
+Can’t that be easier? I can fix it
 
 ## Projects
 List of all projects sorted by language/platform
