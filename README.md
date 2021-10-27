@@ -1,3 +1,4 @@
+<img src="/files/MrAutomate-crop.png" alt="Mr. Automate" width="200" height="200">
 
 # Mr. Automate
 
