@@ -6,9 +6,9 @@ Can’t that be easier? I can fix it
 ## Projects
 List of all projects sorted by language/platform
 
-### Power Apps <img src="files/PowerApps.svg" height="23">
+### <img src="files/PowerApps.svg" height="23"> Power Apps
 
-### Power Automate <img src="files/PowerAutomate.svg" height="23">
+### <img src="files/PowerAutomate.svg" height="23"> Power Automate
 - [Microsoft Outlook - Automatic Travel Time](/../../../AutomaticTravelTime)<br/>
 - [Microsoft Teams - Teams Meeting Buffer Time](/../../../MicrosoftTeamsMeetingBufferTime)<br/>
 - [Microsoft Outlook - Automatic Out of Office](/../../../AutomaticOutofOffice)<br/>
