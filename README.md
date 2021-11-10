@@ -12,6 +12,7 @@ List of all projects sorted by language/platform
 - [Microsoft Outlook - Automatic Travel Time](/../../../AutomaticTravelTime)<br/>
 - [Microsoft Teams - Teams Meeting Buffer Time](/../../../MicrosoftTeamsMeetingBufferTime)<br/>
 - [Microsoft Outlook - Automatic Out of Office](/../../../AutomaticOutofOffice)<br/>
+- [Microsoft Outlook - Automatic Out of Office](/../../../MicrosoftTeamsSetReminder)<br/>
 
 ### PowerShell
 
