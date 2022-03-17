@@ -9,6 +9,7 @@ List of all projects sorted by language/platform
 ### <img src="files/PowerApps.svg" height="23"> Power Apps
 
 ### <img src="files/PowerAutomate.svg" height="23"> Power Automate
+- [Microsoft Teams - Set Status Message](/../../../MicrosoftTeamsSetStatusMessage)<br/>
 - [Microsoft Outlook - Automatic Travel Time](/../../../AutomaticTravelTime)<br/>
 - [Microsoft Teams - Teams Meeting Buffer Time](/../../../MicrosoftTeamsMeetingBufferTime)<br/>
 - [Microsoft Outlook - Automatic Out of Office](/../../../AutomaticOutofOffice)<br/>
