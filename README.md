@@ -7,6 +7,7 @@ Can’t that be easier? I can fix it
 List of all projects sorted by language/platform
 
 ### <img src="files/PowerApps.svg" height="23"> Power Apps
+- [Power Apps - Birthday](/../../../BirthdayPowerApp)<br/>
 - [Power Apps - Who's who](/../../../WhosWho)<br/>
 
 ### <img src="files/PowerAutomate.svg" height="23"> Power Automate
