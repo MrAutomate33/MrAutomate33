@@ -17,7 +17,7 @@ List of all projects sorted by language/platform
 - [Microsoft Outlook - Automatic Out of Office](/../../../AutomaticOutofOffice)<br/>
 - [Microsoft Teams - Set message reminder](/../../../MicrosoftTeamsSetReminder)<br/>
 
-### PowerShell
+### <img src="files/PowerShell.png" height="23"> PowerShell
 
 <!--
 **MrAutomate33/MrAutomate33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
