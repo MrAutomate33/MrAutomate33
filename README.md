@@ -6,6 +6,7 @@ Can’t that be easier? I can fix it
 ## :pencil: Blogs and articles
 - [How to: Filter query SharePoint people field based on email address — Power Automate](https://medium.com/@Mr.Automate/how-to-filter-query-sharepoint-people-field-based-on-email-address-power-automate-b71563c8d164)<br/>
 - [How to: Update SharePoint hyperlink field the proper way with alternative text — Power Automate](https://medium.com/@Mr.Automate/update-sharepoint-hyperlink-field-the-proper-way-with-alternative-text-power-automate-logic-apps-f7ba0280b288)<br/>
+- [How to: Get default calendar of user in Power Apps](https://medium.com/@Mr.Automate/how-to-get-default-calendar-of-user-in-power-apps-88b510898480)<br/>
 
 ## Projects
 List of all projects sorted by language/platform
